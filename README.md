@@ -1,8 +1,8 @@
 # Chrome Extension TypeScript Starter
 
-![build](https://github.com/chibat/chrome-extension-typescript-starter/workflows/build/badge.svg)
-
 Chrome Extension, TypeScript and Visual Studio Code
+
+Framer : [https://www.framer.com/docs/introduction/]
 
 ## Prerequisites
 
