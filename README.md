@@ -4,6 +4,10 @@ Chrome Extension, TypeScript and Visual Studio Code
 
 Framer : [https://www.framer.com/docs/introduction/]
 
+We might use tippy.js or just Popper.js
+
+https://stackoverflow.com/questions/66604343/inject-popper-js-in-chrome-extension-content-script
+
 ## Prerequisites
 
 * [node + npm](https://nodejs.org/) (Current Version)
